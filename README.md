@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/icon.png" width="128" alt="Mousy icon" />
+
 # Mousy
 
 **Your Mac's input, as fun stats.**
@@ -27,7 +29,13 @@ you get a snapshot of how much you've been clicking and typing, both **today** a
 It's a fun little "quantified self" toy for your peripherals. Everything stays on
 your machine.
 
-> _Screenshot — drop yours here:_ `docs/screenshot.png`
+<div align="center">
+
+<img src="docs/panel.png" width="380" alt="Mousy panel — today and all-time stats" />
+&nbsp;
+<img src="docs/chart.png" width="380" alt="Mousy day-by-day chart" />
+
+</div>
 
 ## Features
 
