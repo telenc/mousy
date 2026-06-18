@@ -1,0 +1,13 @@
+# Build artifacts
+.build/
+.swiftpm/
+Mousy.app/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
