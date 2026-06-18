@@ -9,5 +9,8 @@ Mousy.app/
 xcuserdata/
 DerivedData/
 
+# Generated icon set (rebuilt from make-icon.swift)
+*.iconset/
+
 # macOS
 .DS_Store
