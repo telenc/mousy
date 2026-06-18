@@ -2,6 +2,7 @@
 .build/
 .swiftpm/
 Mousy.app/
+Mousy.zip
 
 # Xcode
 *.xcodeproj

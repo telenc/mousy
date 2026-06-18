@@ -15,6 +15,7 @@ with day-by-day charts.
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-MenuBarExtra-blue)](https://developer.apple.com/xcode/swiftui/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Privacy](https://img.shields.io/badge/privacy-100%25%20local-success)](#-privacy)
+[![Download](https://img.shields.io/github/v/release/telenc/mousy?label=download&logo=apple&color=black)](https://github.com/telenc/mousy/releases/latest)
 
 </div>
 
@@ -64,6 +65,21 @@ Delete that file (or use **Reset stats** in the app) to wipe everything.
 
 - macOS 13 (Ventura) or later
 - Xcode 15+ / Swift 5.9+ (only to build)
+
+## ⬇️ Download
+
+Grab the latest **Mousy.zip** from the
+[**Releases page**](https://github.com/telenc/mousy/releases/latest), unzip it, and drop
+**Mousy.app** into your `/Applications` folder.
+
+> [!NOTE]
+> The app isn't notarized yet (no paid Apple Developer account), so macOS blocks it on
+> first launch. To open it: **right-click Mousy.app → Open → Open**, or run once:
+> ```bash
+> xattr -dr com.apple.quarantine /Applications/Mousy.app
+> ```
+
+Prefer to build it from source? 👇
 
 ## Build & Run
 
