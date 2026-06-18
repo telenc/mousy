@@ -132,4 +132,4 @@ swift run        # run from sources
 
 ## License
 
-[MIT](LICENSE) © telenc
+[MIT](LICENSE) © Rémi Telenczak ([@telenc](https://github.com/telenc))
